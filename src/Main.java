@@ -91,7 +91,7 @@ public class Main {
         var totalTime=640;
         var workingHours=8;
         var numberOfWorkers=totalTime/workingHours;
-        System.out.println("1) Всего работников в компании — " + numberOfWorkers + " человек");
+        System.out.println("1) Всего работников в компании — " + numberOfWorkers + " человек.");
         numberOfWorkers=numberOfWorkers+94;
         totalTime=numberOfWorkers*workingHours;
         System.out.println("2) Если в компании работает "+numberOfWorkers+ " человек, то всего " +totalTime+" часа работы может быть поделено между сотрудниками");
