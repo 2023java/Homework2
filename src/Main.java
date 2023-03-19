@@ -87,7 +87,7 @@ public class Main {
         System.out.println("2)Разница между весами бойцов " + weightDifference2 + " кг.");
     }
     public static void task8 () {
-        System.out.println("Задача8");
+        System.out.println("Задача 8");
         var totalTime=640;
         var workingHours=8;
         var numberOfWorkers=totalTime/workingHours;
